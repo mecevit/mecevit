@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mecevit
-- 👀 I’m interested in machine learning and carpentry
+- 👀 I’m interested in machine learning 🧠 and carpentry 🪵
 - 💞️ I’m looking to collaborate on ML
 
 <!---
